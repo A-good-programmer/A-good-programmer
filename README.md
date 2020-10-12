@@ -1,5 +1,14 @@
 ### Hi there 👋
+- 🔭 来自江西上饶99年的前端开发程序员一名, 进入社会2019年8月开始程序员的生活, 热爱编程、钻研新技术...
+- 🌱 技术栈: Vue, uniapp, ReactNative, 小程序...
+- 🤔 团队开发项目的经验占大多数, 开发习惯封装用于复用性，代码中的注释是关键... 
+- 📫 联系方式：
 
+| QQ邮箱  | 微信 |
+| ------------- | ------------- |
+| 3493583622@qq.com  | H3493583622  |
+      
+- 😄 喜欢打篮球, 热爱生活, 和最好的朋友在一起才最舒服...
 <!--
 **A-good-programmer/A-good-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
